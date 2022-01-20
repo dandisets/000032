@@ -9,7 +9,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Test dataset (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000032/draft
+citation: Test dataset (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000032/draft
 dateCreated: '2020-08-05T01:53:34.181000+00:00'
 description: Test description
 id: DANDI:000032/draft
