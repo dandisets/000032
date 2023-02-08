@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000032
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -9,16 +10,31 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Test dataset (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000032/draft
+citation: Dichter, Benjamin (2023) Test dataset (Version draft) [Data set]. DANDI
+  archive. https://dandiarchive.org/dandiset/000032/draft
+contributor:
+- affiliation: []
+  includeInCitation: true
+  name: Dichter, Benjamin
+  roleName: []
+  schemaKey: Person
 dateCreated: '2020-08-05T01:53:34.181000+00:00'
 description: Test description
+ethicsApproval: []
 id: DANDI:000032/draft
 identifier: DANDI:000032
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000032/versions/draft/assets/
 name: Test dataset
-repository: https://dandiarchive.org/
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000032/draft
 version: draft
+wasGeneratedBy: []
